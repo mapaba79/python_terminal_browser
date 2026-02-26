@@ -21,7 +21,7 @@ A simple, text-mode web browser designed to run directly in the terminal. This p
 ## 📦 Installation & Setup
 
 1. **Clone the repository**:
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/mapaba79/python_terminal_browser.git
    cd python_terminal_browser
 
 2. **Create and activate a virtual environment**:
